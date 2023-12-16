@@ -4,7 +4,6 @@
   
 ## <div align="center">青蛙領航員</div> 
 ### <div align="center">青蛙領航員開始我們的旅途吧</div>  
-<hr/>
 <div align="center">數一數二優秀的 Discord 機器人，以及擁有藍色的小勾勾，前身為引人注目的 BackupMode</div>
 
 <br/>
