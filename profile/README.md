@@ -9,3 +9,4 @@
 <br/>
 
 - ❓ 有任何問題嗎? 歡迎去我們的 [Discord](https://discord.gg/3Y7Z8SYarv)  
+- 🐸 我們的官方網站，歡迎去看看喔 ❤️ [快速連結](https://frogcord.xyz)
